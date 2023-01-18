@@ -1,7 +1,10 @@
 //esta libreria se utiliza para trabajar la pagina web obtenida del scraping
 import * as cheerio from 'cheerio'
-import { writeFile } from 'node:fs/promises'
+import { writeFile, readFile } from 'node:fs/promises'
 import path from 'node:path'
+const DB_PATH =  path.join(process.cwd(), './db/')
+const TEAMS = await readFile(`${DB_PATH}/teams.json`,'utf-8').then(JSON.parse)
+//import teams from '../db/teams.json' assert { type: 'json'}
 
 
 const URLS = {
@@ -30,6 +33,8 @@ async function getLeaderBoard(){
         redCards: {selector:'.fs-table-text_9', typeOf:'number'}
     }
 
+    const getTeamFrom = ({ name }) => TEAMS.find(team => team.name === name)
+
     const cleanText = text => text
         .replace(/\t|\n|\s:/g, '')
         .replace(/.*:/g, ' ')
@@ -38,7 +43,7 @@ async function getLeaderBoard(){
 
     const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTOR)
 
-    let leaderboard =[]
+    const leaderboard =[]
     $rows.each((index, el)=>{
         const $el = $(el)
         const leaderBoardEntries = leaderBoardSelectorEntries.map(([key, { selector, typeOf }]) => {
@@ -48,12 +53,19 @@ async function getLeaderBoard(){
         const value = typeOf === 'number' ? Number(cleanedValue): cleanedValue
         return [key, value]
       })
-      leaderboard.push(Object.fromEntries(leaderBoardEntries))
+      
+      const { team: teamName, ... leaderboardForTeam } = Object.fromEntries(leaderBoardEntries)
+      const team = getTeamFrom({name: teamName})
+      leaderboardForTeam.teamId = getTeamFrom(leaderboardForTeam)
+
+      leaderboard.push({
+        ... leaderboardForTeam,
+        team
+      })
     })
     return leaderboard  
     
 }
   const leaderboard =  await getLeaderBoard()
-  const filePath = path.join(process.cwd(), './db/leaderboard.json')
-  
-  await writeFile(filePath,JSON.stringify(leaderboard, null , 2), 'utf-8')
+
+  await writeFile(`${DB_PATH}/leaderboard.json`,JSON.stringify(leaderboard, null , 2), 'utf-8')
