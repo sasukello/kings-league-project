@@ -7,11 +7,11 @@ Proyecto para crear una API de la Kings League y su pagina web de Practica y mej
 
 Endpoint Disponibles :
 
-GET `/leaderboard`:  Recupera la clasificacion de la Kings League
-GET `/teams`: Recupera todos los equipos de la Kings League
-GET `/team/:id`: Recupera un equipo
-GET `/presidents`: Obtienes todos los presidentes de la Kings League
-GET `/presidents/:id`: Obten un presidente por medio de su ID
+- GET `/leaderboard`:  Recupera la clasificacion de la Kings League
+- GET  `/teams`: Recupera todos los equipos de la Kings League
+- GET  `/team/:id`: Recupera un equipo
+- GET `/presidents`: Obtienes todos los presidentes de la Kings League
+- GET `/presidents/:id`: Obten un presidente por medio de su ID
 
 ## Estadisticas del Autor
 
