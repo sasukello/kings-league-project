@@ -1,13 +1,14 @@
 {
-  "name": "Kings-League",
+  "name": "kings-league",
   "version": "1.0.0",
-  "description": "",
+  "description": "Kings League Project API & WEB",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev:api": "wrangler dev api/index.js",
     "publish:api": "wrangler publish api/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "node --no-warnings scraping/index.js"
   },
   "keywords": [],
   "author": "",
