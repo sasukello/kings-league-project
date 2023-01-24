@@ -1,17 +1,16 @@
 [
   {
     "wins": 3,
-    "loses": 0,
-    "scoredGoals": 10,
-    "concededGoals": 4,
-    "yellowCards": 3,
+    "loses": 1,
+    "scoredGoals": 11,
+    "concededGoals": 5,
+    "yellowCards": 6,
     "redCards": 1,
     "team": {
       "id": "saiyans-fc",
       "name": "Saiyans FC",
-      "image": "/el-bbarrio.svg",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/el-bbarrio.svg",
       "url": "",
-      "president": "",
       "channel": "https://twich.tv/1k",
       "players": [],
       "coach": "",
@@ -20,94 +19,27 @@
         "https://twitter.com/1kfutbolclub",
         "https://www.youtube.com/c/IkerCasillas",
         "https://www.tiktok.com/@1kfutbolclub"
-      ]
+      ],
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/thegrefg.png",
+        "teamId": "saiyans-fc"
+      }
     }
   },
   {
     "wins": 3,
-    "loses": 0,
-    "scoredGoals": 12,
-    "concededGoals": 7,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
-      "id": "1k",
-      "name": "1K FC",
-      "image": "/1k-inverse.svg",
-      "url": "",
-      "president": "",
-      "channel": "https://twich.tv/1k",
-      "players": [],
-      "coach": "",
-      "socialNetwork": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ]
-    }
-  },
-  {
-    "wins": 2,
     "loses": 1,
-    "scoredGoals": 5,
-    "concededGoals": 3,
-    "yellowCards": 2,
-    "redCards": 0,
-    "team": {
-      "id": "kunisports",
-      "name": "Kunisports",
-      "image": "/kunisports.svg",
-      "url": "",
-      "president": "",
-      "channel": "https://twich.tv/1k",
-      "players": [],
-      "coach": "",
-      "socialNetwork": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ]
-    }
-  },
-  {
-    "wins": 2,
-    "loses": 1,
-    "scoredGoals": 11,
-    "concededGoals": 10,
-    "yellowCards": 2,
-    "redCards": 0,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "/los-troncos.png",
-      "url": "",
-      "president": "",
-      "channel": "https://twich.tv/1k",
-      "players": [],
-      "coach": "",
-      "socialNetwork": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ]
-    }
-  },
-  {
-    "wins": 2,
-    "loses": 1,
-    "scoredGoals": 9,
-    "concededGoals": 8,
+    "scoredGoals": 14,
+    "concededGoals": 9,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "ultimate-mostoles",
       "name": "Ultimate Móstoles",
-      "image": "/ultimate-mostoles.svg",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/ultimate-mostoles.svg",
       "url": "",
-      "president": "",
       "channel": "https://twich.tv/1k",
       "players": [],
       "coach": "",
@@ -116,22 +48,27 @@
         "https://twitter.com/1kfutbolclub",
         "https://www.youtube.com/c/IkerCasillas",
         "https://www.tiktok.com/@1kfutbolclub"
-      ]
+      ],
+      "president": {
+        "id": "djmariio",
+        "name": "DjMaRiiO",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/djmariio.png",
+        "teamId": "ultimate-mostoles"
+      }
     }
   },
   {
-    "wins": 2,
+    "wins": 3,
     "loses": 1,
-    "scoredGoals": 9,
-    "concededGoals": 9,
+    "scoredGoals": 14,
+    "concededGoals": 10,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "porcinos-fc",
       "name": "Porcinos FC",
-      "image": "/porcinos-fc.svg",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/porcinos-fc.svg",
       "url": "",
-      "president": "",
       "channel": "https://twich.tv/1k",
       "players": [],
       "coach": "",
@@ -140,22 +77,85 @@
         "https://twitter.com/1kfutbolclub",
         "https://www.youtube.com/c/IkerCasillas",
         "https://www.tiktok.com/@1kfutbolclub"
-      ]
+      ],
+      "president": {
+        "id": "ibai-llanos",
+        "name": "Ibai Llanos",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/ibai-llanos.png",
+        "teamId": "porcinos-fc"
+      }
     }
   },
   {
-    "wins": 1,
-    "loses": 2,
-    "scoredGoals": 8,
-    "concededGoals": 7,
+    "wins": 3,
+    "loses": 1,
+    "scoredGoals": 14,
+    "concededGoals": 12,
     "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/1k-inverse.svg",
+      "url": "",
+      "channel": "https://twich.tv/1k",
+      "players": [],
+      "coach": "",
+      "socialNetwork": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "president": {
+        "id": "iker-casillas",
+        "name": "Iker Casillas",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/iker-casillas.png",
+        "teamId": "1k"
+      }
+    }
+  },
+  {
+    "wins": 3,
+    "loses": 1,
+    "scoredGoals": 7,
+    "concededGoals": 5,
+    "yellowCards": 6,
+    "redCards": 0,
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/kunisports.svg",
+      "url": "",
+      "channel": "https://twich.tv/1k",
+      "players": [],
+      "coach": "",
+      "socialNetwork": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "president": {
+        "id": "kun-aguero",
+        "name": "Kun Agüero",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/kun-aguero.png",
+        "teamId": "kunisports"
+      }
+    }
+  },
+  {
+    "wins": 2,
+    "loses": 2,
+    "scoredGoals": 13,
+    "concededGoals": 9,
+    "yellowCards": 2,
     "redCards": 0,
     "team": {
       "id": "el-barrio",
       "name": "El Barrio",
-      "image": "/el-bbarrio.svg",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/el-bbarrio.svg",
       "url": "",
-      "president": "",
       "channel": "https://twich.tv/1k",
       "players": [],
       "coach": "",
@@ -164,46 +164,27 @@
         "https://twitter.com/1kfutbolclub",
         "https://www.youtube.com/c/IkerCasillas",
         "https://www.tiktok.com/@1kfutbolclub"
-      ]
+      ],
+      "president": {
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/adri-contreras.png",
+        "teamId": "el-barrio"
+      }
     }
   },
   {
-    "wins": 1,
+    "wins": 2,
     "loses": 2,
-    "scoredGoals": 9,
-    "concededGoals": 9,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
-      "id": "rayo-barcelona",
-      "name": "Rayo de Barcelona",
-      "image": "/rayo-barcelona.svg",
-      "url": "",
-      "president": "",
-      "channel": "https://twich.tv/1k",
-      "players": [],
-      "coach": "",
-      "socialNetwork": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ]
-    }
-  },
-  {
-    "wins": 1,
-    "loses": 2,
-    "scoredGoals": 7,
-    "concededGoals": 9,
+    "scoredGoals": 8,
+    "concededGoals": 10,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
-      "image": "/aniquiladores.svg",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/aniquiladores.svg",
       "url": "",
-      "president": "",
       "channel": "https://twich.tv/1k",
       "players": [],
       "coach": "",
@@ -212,22 +193,27 @@
         "https://twitter.com/1kfutbolclub",
         "https://www.youtube.com/c/IkerCasillas",
         "https://www.tiktok.com/@1kfutbolclub"
-      ]
+      ],
+      "president": {
+        "id": "juan-guarnizo",
+        "name": "Juan Guarnizo",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/juan-guarnizo.png",
+        "teamId": "aniquiladores-fc"
+      }
     }
   },
   {
-    "wins": 1,
+    "wins": 2,
     "loses": 2,
-    "scoredGoals": 5,
-    "concededGoals": 8,
+    "scoredGoals": 8,
+    "concededGoals": 10,
     "yellowCards": 3,
     "redCards": 0,
     "team": {
       "id": "xbuyer-team",
       "name": "XBUYER TEAM",
-      "image": "/xbuyer-team.svg",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/xbuyer-team.svg",
       "url": "",
-      "president": "",
       "channel": "https://twich.tv/1k",
       "players": [],
       "coach": "",
@@ -236,22 +222,85 @@
         "https://twitter.com/1kfutbolclub",
         "https://www.youtube.com/c/IkerCasillas",
         "https://www.tiktok.com/@1kfutbolclub"
-      ]
+      ],
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/hnos-buyer.png",
+        "teamId": "xbuyer-team"
+      }
+    }
+  },
+  {
+    "wins": 2,
+    "loses": 2,
+    "scoredGoals": 12,
+    "concededGoals": 15,
+    "yellowCards": 2,
+    "redCards": 1,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/los-troncos.png",
+      "url": "",
+      "channel": "https://twich.tv/1k",
+      "players": [],
+      "coach": "",
+      "socialNetwork": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/perxitaa.png",
+        "teamId": "los-troncos-fc"
+      }
+    }
+  },
+  {
+    "wins": 1,
+    "loses": 3,
+    "scoredGoals": 10,
+    "concededGoals": 14,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/rayo-barcelona.svg",
+      "url": "",
+      "channel": "https://twich.tv/1k",
+      "players": [],
+      "coach": "",
+      "socialNetwork": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "president": {
+        "id": "spursito",
+        "name": "Spursito",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/spursito.png",
+        "teamId": "rayo-barcelona"
+      }
     }
   },
   {
     "wins": 0,
-    "loses": 3,
-    "scoredGoals": 7,
-    "concededGoals": 12,
-    "yellowCards": 2,
+    "loses": 4,
+    "scoredGoals": 9,
+    "concededGoals": 15,
+    "yellowCards": 3,
     "redCards": 0,
     "team": {
       "id": "jijantes-fc",
       "name": "Jijantes FC",
-      "image": "/jijantes-fc.svg",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/jijantes-fc.svg",
       "url": "",
-      "president": "",
       "channel": "https://twich.tv/1k",
       "players": [],
       "coach": "",
@@ -260,22 +309,27 @@
         "https://twitter.com/1kfutbolclub",
         "https://www.youtube.com/c/IkerCasillas",
         "https://www.tiktok.com/@1kfutbolclub"
-      ]
+      ],
+      "president": {
+        "id": "gerard-romero",
+        "name": "Gerard Romero",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/gerard-romero.png",
+        "teamId": "jijantes-fc"
+      }
     }
   },
   {
     "wins": 0,
-    "loses": 3,
-    "scoredGoals": 3,
-    "concededGoals": 9,
-    "yellowCards": 4,
+    "loses": 4,
+    "scoredGoals": 5,
+    "concededGoals": 11,
+    "yellowCards": 5,
     "redCards": 0,
     "team": {
       "id": "pio-fc",
       "name": "PIO FC",
-      "image": "/pio.svg",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/pio.svg",
       "url": "",
-      "president": "",
       "channel": "https://twich.tv/1k",
       "players": [],
       "coach": "",
@@ -284,7 +338,13 @@
         "https://twitter.com/1kfutbolclub",
         "https://www.youtube.com/c/IkerCasillas",
         "https://www.tiktok.com/@1kfutbolclub"
-      ]
+      ],
+      "president": {
+        "id": "rivers",
+        "name": "Rivers",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/rivers.png",
+        "teamId": "pio-fc"
+      }
     }
   }
 ]
