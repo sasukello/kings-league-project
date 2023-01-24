@@ -5,7 +5,7 @@
     "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/1k-inverse.svg",
     "url": "",
     "presidentId": "iker-casillas",
-    "channel": "https://twich.tv/1k",
+    "channel": "https://www.youtube.com/IkerCasillas",
     "players": [],
     "coach": "",
     "socialNetwork":[
@@ -23,7 +23,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/el-bbarrio.svg",
         "url": "",
         "presidentId": "thegrefg",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/thegrefg",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -41,7 +41,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/kunisports.svg",
         "url": "",
         "presidentId": "kun-aguero",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/kunisports",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -59,7 +59,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/los-troncos.png",
         "url": "",
         "presidentId": "perxitaa",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/perxitaa",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -77,7 +77,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/ultimate-mostoles.svg",
         "url": "",
         "presidentId": "djmariio",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://www.youtube.com/DjMaRiio",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -95,7 +95,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/porcinos-fc.svg",
         "url": "",
         "presidentId": "ibai-llanos",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/ibai",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -131,7 +131,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/rayo-barcelona.svg",
         "url": "",
         "presidentId": "spursito",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/1kfutbolclub",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -149,7 +149,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/aniquiladores.svg",
         "url": "",
         "presidentId": "juan-guarnizo",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/juan",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -167,7 +167,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/xbuyer-team.svg",
         "url": "",
         "presidentId": "hnos-buyer",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/hnos-buyer",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -185,7 +185,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/jijantes-fc.svg",
         "url": "",
         "presidentId": "gerard-romero",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/gerard-romero",
         "players": [],
         "coach": "",
         "socialNetwork":[
@@ -203,7 +203,7 @@
         "image":"https://kings-league-api.andersonmontilla.workers.dev/static/logos/pio.svg",
         "url": "",
         "presidentId": "rivers",
-        "channel": "https://twich.tv/1k",
+        "channel": "https://twich.tv/rivers",
         "players": [],
         "coach": "",
         "socialNetwork":[
