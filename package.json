@@ -8,7 +8,7 @@
     "dev:api": "wrangler dev api/index.js",
     "publish:api": "wrangler publish api/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scrape": "node --no-warnings scraping/index.js"
+    "scrape": "node --no-warnings scraping/leaderboard.js"
   },
   "keywords": [],
   "author": "",
