@@ -34,7 +34,7 @@ async function getLeaderBoard() {
     const getTeamFrom = ({ name }) => {
         const { presidentId, ...restOfTeam } = TEAMS.find(team => team.name === name)
         const president = PRESIDENTS.find(president => president.id === presidentId)
-        return {... restOfTeam, president}
+        return { ...restOfTeam, president }
     }
 
     const cleanText = text => text
