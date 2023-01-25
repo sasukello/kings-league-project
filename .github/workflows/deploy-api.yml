@@ -1,29 +1,19 @@
 name: Deploy API
 
-on: 
- workflow_dispatch:
+on:
+  workflow_dispatch:
 
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 * * * *'
+
 jobs:
   deploy:
-    runs-on : ubuntu-22.04
-    timeout-minutes: 5
-    name: Deploy API to Cloudflare Workers
+    runs-on: ubuntu-latest
+    name: Deploy
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-      - uses: pnpm/action-setup@v2
-        with:
-          version: 7.18.2
-          run_install : true
-      - uses: cloudflare/wrangler-action@2.0.0
+      - name: Publish app
+        uses: cloudflare/wrangler-action@2.0.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
-          accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          workingDirectory: api
-          command: publish
 
