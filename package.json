@@ -1,6 +1,6 @@
 {
   "name": "kings-league",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kings League Project API & WEB",
   "main": "index.js",
   "type": "module",
