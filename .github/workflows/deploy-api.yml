@@ -13,7 +13,6 @@ jobs:
     name: Deploy API to Cloudflare Workers
     steps:
       - uses: actions/checkout@v3
-      - name: Publish API
       - uses: actions/setup-node@v3
         with:
           node-version: 18
