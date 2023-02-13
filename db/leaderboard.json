@@ -29,7 +29,7 @@
     }
   },
   {
-    "wins": 0,
+    "wins": 5,
     "loses": 1,
     "scoredGoals": 22,
     "concededGoals": 15,
@@ -87,36 +87,7 @@
     }
   },
   {
-    "wins": 1,
-    "loses": 3,
-    "scoredGoals": 15,
-    "concededGoals": 25,
-    "yellowCards": 2,
-    "redCards": 1,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/los-troncos.png",
-      "url": "",
-      "channel": "https://twich.tv/perxitaa",
-      "players": [],
-      "coach": "",
-      "socialNetwork": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ],
-      "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/perxitaa.png",
-        "teamId": "los-troncos-fc"
-      }
-    }
-  },
-  {
-    "wins": 0,
+    "wins": 4,
     "loses": 2,
     "scoredGoals": 18,
     "concededGoals": 14,
@@ -176,8 +147,8 @@
   {
     "wins": 3,
     "loses": 3,
-    "scoredGoals": 14,
-    "concededGoals": 15,
+    "scoredGoals": 17,
+    "concededGoals": 18,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -232,6 +203,35 @@
     }
   },
   {
+    "wins": 3,
+    "loses": 3,
+    "scoredGoals": 20,
+    "concededGoals": 25,
+    "yellowCards": 2,
+    "redCards": 1,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/los-troncos.png",
+      "url": "",
+      "channel": "https://twich.tv/perxitaa",
+      "players": [],
+      "coach": "",
+      "socialNetwork": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/perxitaa.png",
+        "teamId": "los-troncos-fc"
+      }
+    }
+  },
+  {
     "wins": 2,
     "loses": 4,
     "scoredGoals": 16,
@@ -262,8 +262,8 @@
   },
   {
     "wins": 2,
-    "loses": -2,
-    "scoredGoals": 15,
+    "loses": 4,
+    "scoredGoals": 17,
     "concededGoals": 21,
     "yellowCards": 1,
     "redCards": 0,
@@ -320,7 +320,7 @@
   },
   {
     "wins": 0,
-    "loses": 2,
+    "loses": 6,
     "scoredGoals": 11,
     "concededGoals": 24,
     "yellowCards": 3,
