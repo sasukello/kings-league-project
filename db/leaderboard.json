@@ -208,7 +208,7 @@
     "scoredGoals": 20,
     "concededGoals": 25,
     "yellowCards": 2,
-    "redCards": 0,
+    "redCards": 1,
     "team": {
       "id": "los-troncos-fc",
       "name": "Los Troncos FC",
