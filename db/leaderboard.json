@@ -1,10 +1,10 @@
 [
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 8,
+    "loses": 3,
+    "scoredGoals": 34,
+    "concededGoals": 27,
+    "yellowCards": 7,
     "redCards": 0,
     "team": {
       "id": "ultimate-mostoles",
@@ -29,11 +29,11 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 7,
+    "loses": 4,
+    "scoredGoals": 37,
+    "concededGoals": 26,
+    "yellowCards": 11,
     "redCards": 0,
     "team": {
       "id": "porcinos-fc",
@@ -58,11 +58,11 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 7,
+    "loses": 4,
+    "scoredGoals": 40,
+    "concededGoals": 34,
+    "yellowCards": 6,
     "redCards": 0,
     "team": {
       "id": "los-troncos-fc",
@@ -87,11 +87,11 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 7,
+    "loses": 4,
+    "scoredGoals": 21,
+    "concededGoals": 18,
+    "yellowCards": 3,
     "redCards": 0,
     "team": {
       "id": "saiyans-fc",
@@ -116,11 +116,11 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 7,
+    "loses": 4,
+    "scoredGoals": 23,
+    "concededGoals": 22,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "kunisports",
@@ -145,10 +145,10 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
+    "wins": 6,
+    "loses": 5,
+    "scoredGoals": 25,
+    "concededGoals": 25,
     "yellowCards": 0,
     "redCards": 0,
     "team": {
@@ -174,69 +174,11 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/el-bbarrio.svg",
-      "url": "",
-      "channel": "https://twich.tv/1k",
-      "players": [],
-      "coach": "",
-      "socialNetwork": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ],
-      "president": {
-        "id": "adri-contreras",
-        "name": "Adri Contreras",
-        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/adri-contreras.png",
-        "teamId": "el-barrio"
-      }
-    }
-  },
-  {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
-      "id": "1k",
-      "name": "1K FC",
-      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/1k-inverse.svg",
-      "url": "",
-      "channel": "https://www.youtube.com/IkerCasillas",
-      "players": [],
-      "coach": "",
-      "socialNetwork": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ],
-      "president": {
-        "id": "iker-casillas",
-        "name": "Iker Casillas",
-        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/iker-casillas.png",
-        "teamId": "1k"
-      }
-    }
-  },
-  {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 6,
+    "loses": 5,
+    "scoredGoals": 29,
+    "concededGoals": 30,
+    "yellowCards": -1,
     "redCards": 0,
     "team": {
       "id": "aniquiladores-fc",
@@ -261,11 +203,69 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 5,
+    "loses": 6,
+    "scoredGoals": 33,
+    "concededGoals": 25,
+    "yellowCards": 8,
+    "redCards": 0,
+    "team": {
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/el-bbarrio.svg",
+      "url": "",
+      "channel": "https://twich.tv/1k",
+      "players": [],
+      "coach": "",
+      "socialNetwork": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "president": {
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/adri-contreras.png",
+        "teamId": "el-barrio"
+      }
+    }
+  },
+  {
+    "wins": 5,
+    "loses": 6,
+    "scoredGoals": 32,
+    "concededGoals": 34,
+    "yellowCards": -2,
+    "redCards": 0,
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "https://kings-league-api.andersonmontilla.workers.dev/static/logos/1k-inverse.svg",
+      "url": "",
+      "channel": "https://www.youtube.com/IkerCasillas",
+      "players": [],
+      "coach": "",
+      "socialNetwork": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "president": {
+        "id": "iker-casillas",
+        "name": "Iker Casillas",
+        "image": "https://kings-league-api.andersonmontilla.workers.dev/static/presidents/iker-casillas.png",
+        "teamId": "1k"
+      }
+    }
+  },
+  {
+    "wins": 4,
+    "loses": 7,
+    "scoredGoals": 27,
+    "concededGoals": 29,
+    "yellowCards": -2,
     "redCards": 0,
     "team": {
       "id": "pio-fc",
@@ -290,11 +290,11 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 3,
+    "loses": 8,
+    "scoredGoals": 27,
+    "concededGoals": 40,
+    "yellowCards": -13,
     "redCards": 0,
     "team": {
       "id": "rayo-barcelona",
@@ -319,11 +319,11 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 0,
-    "scoredGoals": 0,
-    "concededGoals": 0,
-    "yellowCards": 0,
+    "wins": 1,
+    "loses": 10,
+    "scoredGoals": 23,
+    "concededGoals": 41,
+    "yellowCards": -18,
     "redCards": 0,
     "team": {
       "id": "jijantes-fc",
